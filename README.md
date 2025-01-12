@@ -72,3 +72,6 @@ _Abstractive summaries (generates a summary in its own words using AI).
 **Outcome**
 A functional Text Summarizer Tool that efficiently transforms lengthy content into short, insightful summaries, enhancing productivity and simplifying information consumption.
 
+**Result**
+![image](https://github.com/user-attachments/assets/3bc6ecea-716d-4a4e-86b7-1029b110c780)
+
